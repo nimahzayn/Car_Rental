@@ -46,12 +46,6 @@
 
 ## How to Run
 
-1. Install and set up **XAMPP**.  
-2. Create the MySQL database using the provided schema.  
-3. Import the project into your Java IDE (VS Code, Eclipse, etc.).  
-4. Configure the database connection in `DatabaseManager.java`.  
-5. Deploy the project on a local server (e.g., Tomcat).  
-6. Open the homepage and start using the system.  
 
 ---
 
