@@ -7,7 +7,7 @@ import java.sql.SQLException;
 public class DatabaseManager {
     private static final String URL = "jdbc:mysql://localhost:3306/veloce_db";
     private static final String USER = "root";
-    private static final String PASSWORD = "2005";
+    private static final String PASSWORD = "4794";
 
     private Connection conn;
 
